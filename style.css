@@ -91,6 +91,7 @@ body {
 .content_li {
 	font-family: 'Kufam', cursive;
 	margin: 7px;
+	color: aqua;
 }
 .main {
 	width: 75%;
